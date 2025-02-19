@@ -15,9 +15,7 @@ export default defineStackbitConfig({
         {
           name: "Page",
           type: "page",
-          // The URL a page will be available at—ensure your landing page URL matches one of these
           urlPath: "/{slug}",
-          // JSON files stored in content/pages (e.g. content/pages/{slug}.json)
           filePath: "content/pages/{slug}.json",
           fields: [{ name: "title", type: "string", required: true }],
         },
