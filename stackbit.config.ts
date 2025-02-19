@@ -5,6 +5,7 @@ export default defineStackbitConfig({
   nodeVersion: "18",
   devCommand: "npm run dev",
   buildCommand: "npm run build",
-  publishDirectory: "dist",
+  publishDir: "dist",
   contentSources: [],
+  contentModel: {},
 });
