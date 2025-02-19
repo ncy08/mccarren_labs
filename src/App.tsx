@@ -52,12 +52,12 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
           <div className="text-center">
             <h1 className="text-4xl tracking-tight font-extrabold text-white sm:text-5xl md:text-6xl">
-              Augment Your Potential with Intelligent AI Solutions
+              Innovate. Transform. Succeed.
             </h1>
             <p className="mt-3 max-w-md mx-auto text-base text-blue-100 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
               At McCarren Labs, we empower your business with tailor-made AI
-              agents and streamlined workflows that drive growth, enhance
-              collaboration, and unlock new opportunities.
+              solutions that drive growth, enhance collaboration, and unlock new
+              opportunities.
             </p>
             <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
               <div className="rounded-md shadow">
@@ -91,31 +91,36 @@ function App() {
             <div className="flex flex-col items-center p-6 bg-white rounded-lg shadow-lg">
               <Rocket className="h-12 w-12 text-blue-600" />
               <h3 className="mt-4 text-xl font-medium text-gray-900">
-                Intelligent Agents
+                Strategic AI Consulting
               </h3>
               <p className="mt-2 text-center text-gray-600">
-                Custom-built AI agents that help you win more business and
-                streamline your operations.
+                We dive deep into your business challenges to identify
+                opportunities where AI can make the biggest impact. From market
+                analysis to a tailored roadmap, we ensure every strategy is
+                aligned with your vision.
               </p>
             </div>
             <div className="flex flex-col items-center p-6 bg-white rounded-lg shadow-lg">
               <Users className="h-12 w-12 text-blue-600" />
               <h3 className="mt-4 text-xl font-medium text-gray-900">
-                Seamless Integration
+                Custom AI Development
               </h3>
               <p className="mt-2 text-center text-gray-600">
-                Our solutions integrate smoothly with your existing systems to
-                enhance collaboration and productivity.
+                Every project is unique. We build solutions from the ground
+                up—whether it’s a specialized machine learning model or a
+                complete AI-powered application—crafted specifically for your
+                industry needs.
               </p>
             </div>
             <div className="flex flex-col items-center p-6 bg-white rounded-lg shadow-lg">
               <MessageSquare className="h-12 w-12 text-blue-600" />
               <h3 className="mt-4 text-xl font-medium text-gray-900">
-                Dedicated Support
+                Seamless Integration & Design
               </h3>
               <p className="mt-2 text-center text-gray-600">
-                Round-the-clock assistance ensuring your AI solutions perform at
-                their best, always.
+                From API development to full-scale implementation, we ensure
+                your new AI tools integrate smoothly with your current systems
+                to keep you ahead of the curve.
               </p>
             </div>
           </div>
@@ -231,7 +236,7 @@ function App() {
                 <div className="ml-3">
                   <p className="text-lg font-medium text-gray-900">Location</p>
                   <p className="mt-1 text-gray-600">
-                    789 Innovation Drive, Tech City, TC 12345
+                    1 N 4 Pl, Brooklyn, NY 11249
                   </p>
                 </div>
               </div>
