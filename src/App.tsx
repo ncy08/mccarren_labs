@@ -20,7 +20,7 @@ function App() {
             <div className="flex items-center">
               <Building2 className="h-8 w-8 text-blue-600" />
               <span className="ml-2 text-xl font-bold text-gray-900">
-                NeuroSpark
+                McCarren Labs
               </span>
             </div>
             <div className="hidden md:flex space-x-8">
@@ -52,12 +52,12 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
           <div className="text-center">
             <h1 className="text-4xl tracking-tight font-extrabold text-white sm:text-5xl md:text-6xl">
-              Empowering Your Future with AI.
+              Augment Your Potential with Intelligent AI Solutions
             </h1>
             <p className="mt-3 max-w-md mx-auto text-base text-blue-100 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-              At NeuroSpark, we blend creative vision with technical excellence
-              to craft bespoke AI solutions that drive innovation and unlock
-              growth.
+              At McCarren Labs, we empower your business with tailor-made AI
+              agents and streamlined workflows that drive growth, enhance
+              collaboration, and unlock new opportunities.
             </p>
             <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
               <div className="rounded-md shadow">
@@ -65,7 +65,7 @@ function App() {
                   href="#contact"
                   className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-blue-700 bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-10"
                 >
-                  Discover More
+                  Learn More
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </a>
               </div>
@@ -82,8 +82,8 @@ function App() {
               What Sets Us Apart
             </h2>
             <p className="mt-4 text-lg text-gray-600">
-              We fuse innovative thinking with deep industry expertise to create
-              AI solutions that make a real impact.
+              Our custom AI solutions are built with a business-first mindset,
+              ensuring that technology drives real results.
             </p>
           </div>
 
@@ -91,31 +91,31 @@ function App() {
             <div className="flex flex-col items-center p-6 bg-white rounded-lg shadow-lg">
               <Rocket className="h-12 w-12 text-blue-600" />
               <h3 className="mt-4 text-xl font-medium text-gray-900">
-                Innovative Solutions
+                Intelligent Agents
               </h3>
               <p className="mt-2 text-center text-gray-600">
-                We harness cutting-edge technology to craft creative,
-                game-changing AI experiences.
+                Custom-built AI agents that help you win more business and
+                streamline your operations.
               </p>
             </div>
             <div className="flex flex-col items-center p-6 bg-white rounded-lg shadow-lg">
               <Users className="h-12 w-12 text-blue-600" />
               <h3 className="mt-4 text-xl font-medium text-gray-900">
-                Expert Craftsmanship
+                Seamless Integration
               </h3>
               <p className="mt-2 text-center text-gray-600">
-                Our dedicated team transforms complex challenges into
-                opportunities with passion and precision.
+                Our solutions integrate smoothly with your existing systems to
+                enhance collaboration and productivity.
               </p>
             </div>
             <div className="flex flex-col items-center p-6 bg-white rounded-lg shadow-lg">
               <MessageSquare className="h-12 w-12 text-blue-600" />
               <h3 className="mt-4 text-xl font-medium text-gray-900">
-                Always-On Support
+                Dedicated Support
               </h3>
               <p className="mt-2 text-center text-gray-600">
-                We provide comprehensive, round-the-clock support to ensure your
-                solutions never miss a beat.
+                Round-the-clock assistance ensuring your AI solutions perform at
+                their best, always.
               </p>
             </div>
           </div>
@@ -128,14 +128,14 @@ function App() {
           <div className="lg:grid lg:grid-cols-2 lg:gap-8 lg:items-center">
             <div>
               <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-                About NeuroSpark
+                About McCarren Labs
               </h2>
               <p className="mt-3 max-w-3xl text-lg text-gray-600">
-                Founded with a vision to reshape the future of technology,
-                NeuroSpark is driven by a passion for innovation. Our
-                multidisciplinary team of engineers, designers, and strategists
-                is dedicated to developing intelligent solutions that empower
-                businesses to thrive in a rapidly evolving digital landscape.
+                At McCarren Labs, we believe in harnessing the power of AI to
+                transform the way businesses operate. Our expert team is
+                committed to developing intelligent solutions that not only
+                automate routine tasks but also empower your team to focus on
+                what truly matters.
               </p>
               <div className="mt-8">
                 <div className="flex items-center">
@@ -160,8 +160,9 @@ function App() {
                       Our Team
                     </h3>
                     <p className="mt-2 text-base text-gray-600">
-                      A vibrant collective of innovators, engineers, and
-                      creatives dedicated to advancing AI technology.
+                      A passionate group of innovators, engineers, and
+                      strategists dedicated to pushing the boundaries of AI
+                      technology.
                     </p>
                   </div>
                 </div>
@@ -176,9 +177,9 @@ function App() {
                       Our Mission
                     </h3>
                     <p className="mt-2 text-base text-gray-600">
-                      To drive innovation by delivering AI-powered solutions
-                      that not only tackle today's challenges but also shape
-                      tomorrow's possibilities.
+                      To empower businesses with AI-driven solutions that unlock
+                      potential, enhance efficiency, and drive sustainable
+                      growth.
                     </p>
                   </div>
                 </div>
@@ -196,8 +197,8 @@ function App() {
               Get in Touch
             </h2>
             <p className="mt-4 text-lg text-gray-600">
-              Ready to spark innovation? Reach out to us and start a
-              conversation about transforming your business with AI.
+              Ready to transform your business with AI? Let’s start a
+              conversation.
             </p>
           </div>
 
@@ -209,7 +210,7 @@ function App() {
                 </div>
                 <div className="ml-3">
                   <p className="text-lg font-medium text-gray-900">Email</p>
-                  <p className="mt-1 text-gray-600">contact@neurospark.ai</p>
+                  <p className="mt-1 text-gray-600">contact@mccarrenlabs.com</p>
                 </div>
               </div>
 
@@ -230,7 +231,7 @@ function App() {
                 <div className="ml-3">
                   <p className="text-lg font-medium text-gray-900">Location</p>
                   <p className="mt-1 text-gray-600">
-                    456 Innovation Avenue, Tech City, TC 12345
+                    789 Innovation Drive, Tech City, TC 12345
                   </p>
                 </div>
               </div>
@@ -246,11 +247,11 @@ function App() {
             <div className="flex items-center">
               <Building2 className="h-8 w-8 text-white" />
               <span className="ml-2 text-xl font-bold text-white">
-                NeuroSpark
+                McCarren Labs
               </span>
             </div>
             <p className="text-gray-400">
-              © 2025 NeuroSpark. All rights reserved.
+              © 2025 McCarren Labs. All rights reserved.
             </p>
           </div>
         </div>
