@@ -1,4 +1,5 @@
 {
   "slug": "home",
-  "title": "Home Page"
+  "title": "Home Page",
+  "type": "page"
 }
