@@ -1,8 +1,4 @@
-export default {
-  // Command to start your local development server (Vite in this case)
-  devCommand: "npm run dev",
-  // Command to build your production site
-  buildCommand: "npm run build",
-  // Directory where the production build is output
-  publishDirectory: "dist",
-};
+export const nodeVersion = "18";
+export const devCommand = "npm run dev";
+export const buildCommand = "npm run build";
+export const publishDirectory = "dist";
